@@ -623,7 +623,7 @@ DELETE /api/User/id   Видалити користувача
 3. Martin Fowler. Refactoring. Improving the Design of Existing Code– Addison-Wesley Professional, 1999. – 464 p.
 4. Kotlin documentation URL: https://kotlinlang.org/docs/home.html (Дата звернення 22.05.2024)
 5. Програмний код створеної системи URL: https://github.com/NureBuravkovaDaryna/apzkr-pzpi-21-6-buravkova-daryna (Дата звернення 17.06.2024)
-6. Відео функціонального тестування URL:
+6. Відео функціонального тестування URL: https://youtu.be/fMfBs-2oSaI (Дата звернення 19.06.2024)
 
 
 ДОДАТОК А
